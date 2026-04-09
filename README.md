@@ -12,6 +12,7 @@ composer require skylence/ai-essentials
 
 | Package | What it does |
 |---------|-------------|
+| [laravel/ai](https://github.com/laravel/ai) | Laravel AI SDK — text generation, tool-calling agents, embeddings |
 | [laravel/boost](https://github.com/laravel/boost) | MCP server helping AI agents discover and interact with your Laravel app |
 | [nunomaduro/pao](https://github.com/nunomaduro/pao) | Agent-optimized output for PHPUnit, Pest, Paratest, PHPStan |
 | [skylence/laravel-artisan-agent-output](https://github.com/skylence-be/laravel-artisan-agent-output) | Agent-optimized output for Laravel Artisan commands |
