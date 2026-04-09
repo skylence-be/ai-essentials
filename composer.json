@@ -1,0 +1,20 @@
+{
+    "name": "skylence/ai-essentials",
+    "description": "Meta-package with essential AI agent tooling for Laravel projects",
+    "keywords": ["laravel", "ai", "agent", "meta-package"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jonas Van der Haegen",
+            "email": "jonas@skylence.be"
+        }
+    ],
+    "require": {
+        "php": "^8.3",
+        "nunomaduro/pao": "^0.5",
+        "shipfastlabs/agent-detector": "^1.1",
+        "skylence/laravel-artisan-agent-output": "^0.1"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
