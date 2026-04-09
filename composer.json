@@ -14,7 +14,6 @@
         "laravel/ai": "^0.1.3 || ^0.3",
         "laravel/boost": "^2.1",
         "nunomaduro/pao": "^0.5",
-        "shipfastlabs/agent-detector": "^1.1",
         "skylence/laravel-artisan-agent-output": "^0.1",
         "skylence/laravel-model-inspector-mcp": "^0.1",
         "skylence/laravel-optimize-mcp": "^0.1",
