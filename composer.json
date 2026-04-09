@@ -13,7 +13,10 @@
         "php": "^8.3",
         "nunomaduro/pao": "^0.5",
         "shipfastlabs/agent-detector": "^1.1",
-        "skylence/laravel-artisan-agent-output": "^0.1"
+        "skylence/laravel-artisan-agent-output": "^0.1",
+        "skylence/laravel-model-inspector-mcp": "^0.1",
+        "skylence/laravel-optimize-mcp": "^0.1",
+        "skylence/laravel-telescope-mcp": "^0.1"
     },
     "minimum-stability": "dev",
     "prefer-stable": true
