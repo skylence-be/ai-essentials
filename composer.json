@@ -19,7 +19,7 @@
         "skylence/laravel-artisan-agent-output": "^0.2",
         "skylence/laravel-model-inspector-mcp": "^1.0",
         "skylence/laravel-optimize-mcp": "^0.1",
-        "skylence/laravel-telescope-mcp": "^1.0"
+        "skylence/laravel-telescope-mcp": "^1.4"
     },
     "minimum-stability": "dev",
     "prefer-stable": true
