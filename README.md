@@ -118,6 +118,12 @@ Requires [Laravel Telescope](https://laravel.com/docs/telescope) to be installed
 composer require skylence/laravel-telescope-mcp --dev
 ```
 
+**Run the installer** (auto-detects your editor, optionally configures HTTP access):
+
+```bash
+php artisan telescope-mcp:install
+```
+
 **Manual MCP setup** (add to `.mcp.json`):
 
 ```json
