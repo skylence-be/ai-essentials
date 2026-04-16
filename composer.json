@@ -16,7 +16,7 @@
     "require-dev": {
         "laravel/boost": "^2.1",
         "nunomaduro/pao": "*",
-        "skylence/laravel-artisan-agent-output": "^0.1",
+        "skylence/laravel-artisan-agent-output": "^0.2",
         "skylence/laravel-model-inspector-mcp": "^1.0",
         "skylence/laravel-optimize-mcp": "^0.1",
         "skylence/laravel-telescope-mcp": "^1.0"
