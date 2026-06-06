@@ -9,7 +9,7 @@ on:
 jobs:
   validate:
     name: Validate composer.json
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     steps:
       - uses: actions/checkout@v4
 
@@ -23,7 +23,7 @@ jobs:
 
   install:
     name: "PHP ${{ matrix.php }} / Laravel ${{ matrix.laravel }}"
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     strategy:
       fail-fast: false
       matrix:
