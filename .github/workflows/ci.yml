@@ -8,7 +8,7 @@ jobs:
     name: Validate composer.json
     runs-on: self-hosted
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
       - uses: shivammathur/setup-php@v2
         with:
@@ -28,7 +28,7 @@ jobs:
         laravel: ["^11.0", "^12.0", "^13.0"]
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
       - uses: shivammathur/setup-php@v2
         with:
